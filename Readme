@@ -1,0 +1,27 @@
+HOW TO GENERATE PERSONAL CV WEB QUICKLY?
+1、创建github仓库
+创建 GitHub 帐户并登录。
+
+点击右上角的“+”图标，选择“New repository”。
+
+在“Repository name”字段中输入“cv”，将“Initialize this repository with a README”选项取消选中。
+
+单击“Create repository”按钮。
+
+点击“Settings”选项卡，向下滚动到“GitHub Pages”部分。
+
+在“Source”部分中，选择“Main branch”作为源。
+
+单击“Save”按钮。
+
+在仓库中创建一个新的 HTML 文件，例如“index.html”。
+
+等待几分钟，然后在浏览器中访问您的网站，网址应为：https://username.github.io/cv/
+
+2、上传内容到index.html
+1.准备简历内容prepare your docs CV
+2.transform to html format at website https://convertio.co
+3.copy the site code to save at he index.html.
+
+
+等待几分钟，然后在浏览器中访问您的网站，网址应为：https://username.github.io/cv/
